@@ -20,7 +20,7 @@
 <ul>
 <li>Python, FastApi</li>
   <li>easyocr</li>
-  <li>HTML, CSS, JAVASCRIPT, web api</li>
+  <li>React, HTML, CSS, JAVASCRIPT, web api</li>
 </ul>
 
 <br/>
